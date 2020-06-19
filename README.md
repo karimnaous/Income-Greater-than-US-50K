@@ -1,2 +1,2 @@
 # Income-Project
-This is a complete project completed independently as part of a class assignment. I selected this task.
+Machine Learning project to predict whether or not a person makes > US $50,000 using data from the US Census
