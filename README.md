@@ -1,2 +1,2 @@
 # Income-Project
-Machine Learning project to predict whether or not a person makes > US $50,000 using data from the US Census
+This project was completed independently as a final project for my Artificial Intelligence elective at the University of Richmond. I selected the task.
